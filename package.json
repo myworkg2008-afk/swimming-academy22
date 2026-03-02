@@ -2,7 +2,7 @@
   "name": "swimming-academy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https:///myworkg2008-afk.github.io/swimming-academy22.git",
+  "homepage": ".",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
