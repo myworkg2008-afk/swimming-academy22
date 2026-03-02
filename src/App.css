@@ -1,0 +1,25 @@
+body {
+  background-color: #e9e9ea; 
+  direction: ltr;
+  text-align: right;
+}
+
+.container {
+  max-width: 1200px;
+}
+
+body {
+  margin: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f0f2f5;
+}
+
+.nav-link.active {
+  background-color: #0dcaf0 !important; 
+  color: #000 !important;
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
